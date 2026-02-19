@@ -130,7 +130,7 @@ plt.show()
 
 #2.8 find unique mapping between district names and district codes.
 #Select district name and district code columns
-district_mapping = district_txn_users[["District", "District Code"]]
+district_mapping = district_txn_users[["District", "Code"]]
 
 #Drop duplicate mappings
 unique_mapping = district_mapping.drop_duplicates()
