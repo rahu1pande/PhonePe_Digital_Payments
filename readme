@@ -1,0 +1,93 @@
+📊 PhonePe Digital Payments Data Analysis
+🚀 Project Overview
+
+End-to-end data analysis of the PhonePe Pulse dataset to uncover transaction trends, digital adoption patterns, demographic correlations, and device usage insights across Indian states and districts.
+
+This project demonstrates strong skills in:
+
+Data Cleaning & Validation
+
+Multi-sheet Data Merging
+
+Aggregation & KPI Calculation
+
+Correlation Analysis
+
+Time Series Visualization
+
+Business Insight Generation
+
+📁 Project Structure
+File	Description
+Task1.py	Data exploration & quality checks
+Task2.py	Transaction analysis & KPI calculations
+Task3.py	District vs State data validation
+Task4.py	Advanced merging & ratio analysis
+Task5.py	Time-series visualization
+Task5_2.py	Transaction type pie chart
+Task5_3.py	Population density visualization
+Task6.py	Trend analysis & insights
+🔍 Key Analyses Performed
+📈 Transaction Trends
+
+Analyzed growth in transaction volume & value over time
+
+Identified top & bottom performing states
+
+📊 User & Demographic Analysis
+
+Calculated User-to-Population ratio
+
+Measured digital penetration by state
+
+🔗 Correlation Analysis
+
+Examined relationship between population density and transaction volume
+
+📱 Device Analysis
+
+Identified dominant device brands per state
+
+Calculated device usage ratio
+
+🧪 Data Validation
+
+Verified consistency between district-level and state-level aggregates
+
+📊 Visualizations Created
+
+Dual-axis time series plot (Transactions vs Amount)
+
+Pie chart (Transaction Type Distribution)
+
+Bar chart (Population Density by District)
+
+Grouped bar chart (Device Usage Ratio)
+
+💡 Key Insights
+
+Strong upward growth in digital transaction adoption
+
+Positive correlation between population density and transaction volume
+
+Regional differences in user penetration and spending behavior
+
+Device ecosystem varies significantly across states
+
+🛠 Tech Stack
+
+Python
+
+Pandas
+
+Matplotlib
+
+Excel (Multi-sheet data handling)
+
+🎯 What This Project Demonstrates
+
+✔ Ability to work with structured multi-sheet datasets
+✔ Strong data aggregation & transformation skills
+✔ Understanding of business metrics & KPIs
+✔ Visualization for insight communication
+✔ Analytical thinking suitable for Data Analyst roles
